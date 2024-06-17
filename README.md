@@ -1,12 +1,16 @@
 # Hero Quest Library
 
-Je suis ravi de vous présenter Hero Quest Library, un projet ambitieux sur lequel je travaille. 
+Nous sommes ravis de vous présenter aujourd'hui le projet ambitieux sur lequel nous travaillons chez HeroQuestTeam : HeroQuest-Library. Notre équipe, fondée en 2024, est connue pour son engagement dans la numérisation de livres en jeux interactifs, et nous sommes fiers d'annoncer notre nouvelle initiative révolutionnaire.
 
 ## Description du projet
 
-Hero Quest Library représente une fusion innovante entre la littérature traditionnelle et les jeux vidéo modernes. Cette application propose une collection de livres « choisissez votre propre aventure » sous forme de jeux interactifs, offrant aux joueurs une expérience immersive et captivante. Notre objectif est de repousser les limites de la narration interactive en proposant une lecture dynamique et personnalisée.
+HeroQuest-Library représente une fusion innovante de littérature traditionnelle et de jeux vidéo modernes. Nous nous lançons dans le développement d'une collection de livres « choisissez votre propre aventure » sous forme de jeux interactifs, offrant aux joueurs une expérience immersive et captivante. Notre objectif est de repousser les limites de la narration interactive en offrant une expérience de lecture dynamique et personnalisée.
 
-Nous croyons fermement que Hero Quest Library est l'avenir de la narration interactive. Notre approche innovante et respectueuse de l'environnement nous distingue sur le marché. Nous avons hâte de partager plus de détails avec vous et de vous inviter à plonger dans l'univers captivant de Hero Quest Library.
+Pour mener à bien ce projet, nous avons réuni une équipe talentueuse de 4 personnes, chacune apportant une expertise dans divers domaines tels que la conception de jeux, la narration interactive et le développement de logiciels. Nous suivons une méthodologie agile pour assurer une gestion efficace du temps et des ressources, tout en restant flexible et créatif dans notre approche.
+
+L'une des caractéristiques uniques de HeroQuestTeam est notre engagement en faveur de l'éco-conception. En réponse aux préoccupations environnementales croissantes, nous nous sommes engagés à intégrer les principes d'éco-conception tout au long du processus de développement.
+
+Nous sommes convaincus que HeroQuest-Library représente l'avenir de la narration interactive et que notre approche innovante et respectueuse de l'environnement nous distinguera sur le marché. Nous avons hâte de partager plus de détails avec vous et de vous inviter à plonger dans l'univers captivant de HeroQuest-Library.
 
 Ce projet est une continuation logique de notre projet précédent, CaydenQuest.
 
