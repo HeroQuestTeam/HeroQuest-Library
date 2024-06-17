@@ -18,12 +18,12 @@ Pour cloner ce projet, utilisez l'une des méthodes suivantes :
 
 - Via HTTPS :
   ```
-  git clone https://github.com/TigrouForMatic/HeroQuest-Library.git
+  git clone https://github.com/HeroQuestTeam/HeroQuest-Library.git
   ```
 
 - Via SSH :
   ```
-  git clone git@github.com:TigrouForMatic/HeroQuest-Library.git
+  git clone git@github.com:HeroQuestTeam/HeroQuest-Library.git
   ```
 
 ---
@@ -63,12 +63,12 @@ Voici un guide rapide pour lancer l'application Hero Quest Library :
 
    - Via HTTPS :
      ```
-     git clone https://github.com/TigrouForMatic/HeroQuest-Library.git
+     git clone https://github.com/HeroQuestTeam/HeroQuest-Library.git
      ```
 
    - Via SSH :
      ```
-     git clone git@github.com:TigrouForMatic/HeroQuest-Library.git
+     git clone git@github.com:HeroQuestTeam/HeroQuest-Library.git
      ```
 
 3. Accédez au répertoire cloné :
