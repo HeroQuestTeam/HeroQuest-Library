@@ -8,6 +8,7 @@ import ChoixPartie from './choixPartieContinuer/ChoixPartie';
 import BackgroundMusic from './backgroundMusic/BackgroundMusic';
 import { MdExitToApp, MdMusicNote, MdMusicOff, MdEco } from 'react-icons/md';
 
+import './Histoire.css';
 // import DataModal from './components/dev/DataModal';
 
 function MainQuestComponent() {
