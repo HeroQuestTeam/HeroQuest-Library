@@ -1,15 +1,15 @@
 import React, {useState} from 'react';
-import Chloe from '../assets/photos/photo_chloe.jpg';
-import Chloe_fun from '../assets/photos/photo_chloe_fun.jpg';
-import Jules from '../assets/photos/photo_jules.jpg';
-import Jules_fun from '../assets/photos/photo_fun_jules.jpg';
-import Ewan from '../assets/photos/photo_ewan.jpg';
-import Ewan_fun from '../assets/photos/photo_cleo_fun.jpg';
-import Marianna from '../assets/photos/photo_mariachi.png';
-import Marianna_fun from '../assets/photos/photo_mariachi_fun.png';
-import Corentin from '../assets/photos/photo_corentin.jpg';
-import Corentin_fun from '../assets/photos/photo_corentin_fun.jpg';
-import "../App.css"
+import Chloe from '../../assets/photos/photo_chloe.jpg';
+import Chloe_fun from '../../assets/photos/photo_chloe_fun.jpg';
+import Jules from '../../assets/photos/photo_jules.jpg';
+import Jules_fun from '../../assets/photos/photo_fun_jules.jpg';
+import Ewan from '../../assets/photos/photo_ewan.jpg';
+import Ewan_fun from '../../assets/photos/photo_cleo_fun.jpg';
+import Marianna from '../../assets/photos/photo_mariachi.png';
+import Marianna_fun from '../../assets/photos/photo_mariachi_fun.png';
+import Corentin from '../../assets/photos/photo_corentin.jpg';
+import Corentin_fun from '../../assets/photos/photo_corentin_fun.jpg';
+import "../../App.css"
 
 
 const Credits = ({ showCredit, setShowCredit }) => {

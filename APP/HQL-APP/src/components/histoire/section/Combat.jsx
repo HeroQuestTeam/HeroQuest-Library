@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import './styleSection.css';
-import Orc from '../../assets/monstres/Orc.png';
-import Fantome from '../../assets/monstres/Fantome.png';
-import Gobelin from '../../assets/monstres/Gobelin.png';
-import Boss from '../../assets/monstres/Boss.png';
-import Slime from '../../assets/monstres/Slime.png';
-import Géant from '../../assets/monstres/Géant.png';
-import BossAffaiblie from '../../assets/monstres/BossAffaiblie.png';
+import Orc from '../../../assets/monstres/Orc.png';
+import Fantome from '../../../assets/monstres/Fantome.png';
+import Gobelin from '../../../assets/monstres/Gobelin.png';
+import Boss from '../../../assets/monstres/Boss.png';
+import Slime from '../../../assets/monstres/Slime.png';
+import Géant from '../../../assets/monstres/Géant.png';
+import BossAffaiblie from '../../../assets/monstres/BossAffaiblie.png';
 
 
 const Combat = ({ section,joueur,monstre, fuitePossible, handleChangeSection, setJoueur }) => {

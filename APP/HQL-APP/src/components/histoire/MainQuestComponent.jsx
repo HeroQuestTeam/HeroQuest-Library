@@ -4,9 +4,11 @@ import CreatePlayerForm from "./createPlayer/CreatePlayerForm";
 import Section from "./section/Section";
 import Credits from "./Credits";
 import Statistique from "./Statistique";
-import ChoixPartie from './ChoixPartie';
+import ChoixPartie from './choixPartieContinuer/ChoixPartie';
 import BackgroundMusic from './backgroundMusic/BackgroundMusic';
 import { MdExitToApp, MdMusicNote, MdMusicOff, MdEco } from 'react-icons/md';
+
+// import DataModal from './components/dev/DataModal';
 
 function MainQuestComponent() {
   const [joueur, setJoueur] = useState(null);
@@ -349,6 +351,20 @@ function MainQuestComponent() {
       <button onClick={() => handleClick('Exit')} style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '10px' }}>
         <MdExitToApp style={{ fontSize: '48px' }} />
       </button> */}
+
+
+      {/* Enelever ce composant quand on rend */}
+      {/* <div  style={{ position: 'absolute', bot: '20px', left: '20px' }} >
+        <DataModal
+          joueur={joueur}
+          section={section}
+          bonus={bonus}
+          monstres={monstres}
+          joueurs={joueurs}
+          typeSections={typeSections}
+          sections={sections}
+        />
+      </div> */}
     </div>
     </>
   );

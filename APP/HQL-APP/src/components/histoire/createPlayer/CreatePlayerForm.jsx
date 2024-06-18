@@ -1,8 +1,8 @@
 import React, { useState, useRef } from 'react';
 import './CreatePlayerForm.css';
-import PotionChance from '../../assets/PotionChance.svg'; 
-import PotionEndurance from '../../assets/PotionEndurance.svg';
-import PotionHabilité from '../../assets/PotionHabilité.svg';
+import PotionChance from '../../../assets/PotionChance.svg'; 
+import PotionEndurance from '../../../assets/PotionEndurance.svg';
+import PotionHabilité from '../../../assets/PotionHabilité.svg';
 import Dice from '../dice/Dice.jsx';
 
 const CreatePlayerForm = ({ onCreatePlayer }) => {

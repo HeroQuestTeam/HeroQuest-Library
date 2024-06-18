@@ -82,7 +82,9 @@ Voici un guide rapide pour lancer l'application Hero Quest Library :
 
 4. Utilisez Docker Compose pour lancer les différents services de l'application :
    ```
-   docker-compose up -d --build
+   chmod +x run.sh
+
+   ./run.sh
    ```
 
    Cette commande lancera les conteneurs Docker pour la base de données, l'API et l'application Web en arrière-plan.

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Levenshtein from '../../script/Levenshtein/Levenshtein'; 
+import Levenshtein from '../../../script/Levenshtein/Levenshtein'; 
 import './Question.css';
 
 const ComposantQuestion = ({ section,degreErreur, onResultat }) => {

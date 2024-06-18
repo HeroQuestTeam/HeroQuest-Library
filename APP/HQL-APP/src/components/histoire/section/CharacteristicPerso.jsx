@@ -1,5 +1,5 @@
 import React from 'react';
-import cadre from '../../assets/Cadre.png';
+import cadre from '../../../assets/Cadre.png';
 import './styleSection.css'
 
 const CharacteristicPerso = ({ joueur }) => {

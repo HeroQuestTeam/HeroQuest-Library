@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import dead from '../../assets/3dar.gif'; 
-import win from '../../assets/3VQL.gif';
+import dead from '../../../assets/3dar.gif'; 
+import win from '../../../assets/3VQL.gif';
 import './EndGame.css';
 
 const TitleEndGame = ({ name, section }) => {

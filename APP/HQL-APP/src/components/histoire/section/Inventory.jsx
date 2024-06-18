@@ -1,13 +1,13 @@
 import React from 'react';
-import PotionChance from '../../assets/PotionChance.svg'; 
-import PotionEndurance from '../../assets/PotionEndurance.svg';
-import PotionHabilité from '../../assets/PotionHabilité.svg';
-import Epee from '../../assets/Epee.svg';
-import Bouclier from '../../assets/Bouclier.svg';
-import Bague from '../../assets/Bague.svg';
-import Collier from '../../assets/Collier.svg';
-import Pieceor from '../../assets/GoldCoin.svg';
-import Cadre from '../../assets/Cadre.png';
+import PotionChance from '../../../assets/PotionChance.svg'; 
+import PotionEndurance from '../../../assets/PotionEndurance.svg';
+import PotionHabilité from '../../../assets/PotionHabilité.svg';
+import Epee from '../../../assets/Epee.svg';
+import Bouclier from '../../../assets/Bouclier.svg';
+import Bague from '../../../assets/Bague.svg';
+import Collier from '../../../assets/Collier.svg';
+import Pieceor from '../../../assets/GoldCoin.svg';
+import Cadre from '../../../assets/Cadre.png';
 
 const Inventory = ({ joueur, potionUsed, handlePotionEffect }) => {
 

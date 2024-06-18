@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import blocText from '../../assets/bloc_text.png';
+import blocText from '../../../assets/bloc_text.png';
 import './styleSection.css';
 
 const SectionDescritpionQuestion = ({ section }) => {
